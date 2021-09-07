@@ -1,0 +1,2 @@
+# Harjutamine
+Versioonhalduse harjutused.
