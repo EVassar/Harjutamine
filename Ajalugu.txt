@@ -1,0 +1,3 @@
+Veebileht teatud kui github alustati aastal 2008 8. veebrauril.
+Selle alustasid 4 inimest: Tom Pretson-Werner, Chris Wanstrath P. J. Hyett ja ka Scott Chacon
+Välja lasti see inimestele kasutamiseks aastal 2008 10. aprillil.
